@@ -1,4 +1,4 @@
- ## 🌱HealthNest: Health Habit Tracker with Wellness  Prediction
+ # 🌱HealthNest: Health Habit Tracker with Wellness  Prediction
 
 Welcome to **HealthNest** — a smart, full-stack wellness companion that helps you cultivate healthier habits, track your daily routines, and unlock insights into your personal health journey through intelligent wellness forecasting.
 
@@ -219,13 +219,13 @@ predictTrend() {
 - MongoDB (Local/Atlas)
 - Git
 
-### Setup Instructions
-# 1.Clone Repository
+## Setup Instructions
+### 1.Clone Repository
 
 ```bash
 git clone https://github.com/rithigavijayendran/HealthNest.git
 ```
-# 2.Backend Setup
+### 2.Backend Setup
 
 ```bash
 cd health-tracker-backend
@@ -239,7 +239,7 @@ PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 ```
-# Frontend Setup
+### 3.Frontend Setup
 
 ```bash
 cd health-tracker-frontend
