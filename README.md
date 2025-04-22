@@ -38,7 +38,7 @@ Welcome to **HealthNest** — a smart, full-stack wellness companion that helps 
 | Page | Functionality | Tools Used |
 |------|---------------|-------------|
 | Login/Register | Secure onboarding | React, Redux, Chakra UI, JWT |
-| Dashboard | Visual wellness overview + trends | React, Chart.js, Recharts |
+| Dashboard | Visual wellness overview + trends + Streaks | React, Chart.js, Recharts |
 | Profile | View/edit goals and personal data | Redux Toolkit |
 | Habit Logging | Daily logs for core wellness areas | Redux, React, Chakra UI |
 
