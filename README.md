@@ -98,6 +98,7 @@ git clone https://github.com/rithigavijayendran/HealthNest.git
 cd health-tracker-backend
 npm install
 touch .env
+node server.js
 ```
 Inside `.env`, add:
 ```
@@ -106,8 +107,6 @@ MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 ```
 ```bash
-node server.js
-
 # Frontend Setup
 cd ../frontend
 npm install
