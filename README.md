@@ -5,7 +5,8 @@ This repository presents *Health Habit Tracker with Wellness Prediction*, a full
 ![📺 Demo Video Link](https://#)
 
 ## Overview
-https://github.com/user-attachments/assets/f34f6687-2e4a-4df5-8e89-e56eba806fe0
+
+![Habitnest](https://github.com/user-attachments/assets/f34f6687-2e4a-4df5-8e89-e56eba806fe0)
 
 *Health Habit Tracker with Wellness Prediction* is an AI-enhanced web application that empowers users to build and maintain healthy lifestyle habits. The app allows users to log daily routines like sleep, water intake, meals, and exercise, while providing real-time feedback, visual insights, and personalized improvement suggestions.
 
