@@ -93,10 +93,9 @@ Welcome to **HealthNest** — a smart, full-stack wellness companion that helps 
 ```bash
 # Clone Repository
 git clone https://github.com/rithigavijayendran/HealthNest.git
-cd health-habit-tracker
 
 # Backend Setup
-cd backend
+cd health-tracker-backend
 npm install
 touch .env
 ```
@@ -107,7 +106,7 @@ MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 ```
 ```bash
-npm run dev
+node server.js
 
 # Frontend Setup
 cd ../frontend
