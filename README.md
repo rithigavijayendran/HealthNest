@@ -1,4 +1,4 @@
-# 🌱 HealthNest: AI-Powered Habit Tracker for Wellness
+ 🌱 HealthNest: AI-Powered Habit Tracker for Wellness
 
 Welcome to **HealthNest** — a smart, full-stack wellness companion that helps you cultivate healthier habits, track your daily routines, and unlock insights into your personal health journey through intelligent wellness forecasting.
 
@@ -73,6 +73,9 @@ Welcome to **HealthNest** — a smart, full-stack wellness companion that helps 
 - Nutrition: 25%
 - Exercise: 25%
 - Consistency Bonus: Up to +50 points
+  
+### ⚡ Real-Time AI Processing
+![Diagram](https://github.com/user-attachments/assets/4e10162b-807a-401e-9f61-608c5a3dd538)
 
 ### Personalized Suggestions Engine
 - 🧩 Adjusts based on behavior gaps
