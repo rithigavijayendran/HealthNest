@@ -9,8 +9,6 @@ Welcome to **HealthNest** — a smart, full-stack wellness companion that helps 
 ## ✨ What is HealthNest?
 **HealthNest** is a personalized wellness platform designed to make your health journey consistent, measurable, and deeply motivating. Users can log everyday habits — from hydration and meals to sleep and workouts — and get real-time AI-driven insights, streak-based motivation, and smart suggestions that feel like a virtual wellness coach.
 
-![HealthNest Screenshot](https://github.com/user-attachments/assets/f34f6687-2e4a-4df5-8e89-e56eba806fe0)
-
 ---
 
 ## 🌟 Key Features
