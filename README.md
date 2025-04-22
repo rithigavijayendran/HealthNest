@@ -2,7 +2,7 @@
 
 This repository presents *Health Habit Tracker with Wellness Prediction*, a full-stack web application designed to promote healthier lifestyles through intelligent habit tracking and AI-powered wellness forecasting.
 
-![📺 Demo Video Link](https://drive.google.com/file/d/1hmZIpGrQ0qS-4362cLxgxn9dah_4eCyr/view?usp=sharing)
+![📺 Demo Video Link](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22habitnest-demovideo.mp4%22%2C%22type%22%3A%22video%2Fmp4%22%2C%22signedurl_expire%22%3A%222028-04-21T12%3A08%3A47.950Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F05399ecc630b46f7%2Fhabitnest-demovideo.mp4%3FExpires%3D1839931728%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DxgiTK9lSyRoTJbKE1wDzymaXWbdV~Y8ZYnVKylmmy35SNoo23i5p2NLNcmTRoqRnywmz7Xinnwwye1wlQk0oYDiadBY0SalPiVq5tVGXz3zy02Rk9-ZKS-SfirejkwGZJAvPzfLoP~kaXCBI18TUWibxpe7684exv3kKk7solEkTC6J8PONVscuACvXJc6AbTPUt3YRd~TxnLL2jlfcxc6e3T32EdghjNnCFfizI6wS0o8gZt3hJ1H-M60Z56Pml7n7W91OuNwQ2ALFBbTlTqMSu9g1RLUpxhlBKMqX5CnbfrRVwvg-ShpDCrya6qlnkNpZ33xKwnaNxUXu7s7Y84g__%22%7D)
 
 ## Overview
 
@@ -67,7 +67,7 @@ Whether you're trying to improve sleep hygiene, stay hydrated, or maintain a con
 
 1. *Clone the repository*
    bash
-   git clone https://github.com/yourusername/health-habit-tracker.git
+   git clone https://github.com/rithigavijayendran/HealthNest.git
    cd health-habit-tracker
    
 2. *Setup Backend*
