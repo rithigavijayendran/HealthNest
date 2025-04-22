@@ -250,6 +250,53 @@ Visit [http://localhost:5173](http://localhost:5173) 🚀
 
 ---
 
+## 📸 Screenshots
+
+### 🔐 Login Page
+
+![Screenshot 2025-04-22 214102](https://github.com/user-attachments/assets/182aa48b-aedd-4c1c-8079-749aacd95afc)
+
+---
+
+### 📝 Registration Page
+
+![Screenshot 2025-04-22 214130](https://github.com/user-attachments/assets/be403374-0362-4b6b-a676-b9cafbbfb762)
+
+---
+
+### 🏠 Dashboard Page (Streaks + Wellness Overview + Habit Analysis)
+
+![Screenshot 2025-04-22 214205](https://github.com/user-attachments/assets/39f4dddd-b3a7-41b1-99fe-2f37fd2022f0)
+
+---
+
+### 📈 Dashboard Page (Trend Prediction)
+
+![Screenshot 2025-04-22 214226](https://github.com/user-attachments/assets/ab616b38-0ef2-4bf8-a59b-645eec1150db)
+
+---
+
+### 📆 Log Habits (Daily Entry)
+
+![Screenshot 2025-04-22 214340](https://github.com/user-attachments/assets/9e304ec8-1503-4bfa-b301-f629bd4c8f8f)
+
+![Screenshot 2025-04-22 214406](https://github.com/user-attachments/assets/3a828b21-8a90-4ece-a190-d187c1c2d4d4)
+
+---
+
+### 📆 Log Habits (Progress History)
+
+![Screenshot 2025-04-22 214434](https://github.com/user-attachments/assets/2ec46ee6-6a7e-44f9-9e3c-9e3b8acf5528)
+
+---
+
+### 🙍‍♀️ Profile Page
+
+![Screenshot 2025-04-22 214456](https://github.com/user-attachments/assets/9eb1fe78-faa5-4958-a806-d4913bdcfa39)
+
+---
+
+
 ## 🔮 Future Enhancements
 - Integration with wearable devices (Fitbit, Apple Health)
 - Anomaly detection for sleep, stress, etc.
