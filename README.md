@@ -2,7 +2,7 @@
 
 This repository presents *Health Habit Tracker with Wellness Prediction*, a full-stack web application designed to promote healthier lifestyles through intelligent habit tracking and AI-powered wellness forecasting.
 
-![📺 Demo Video Link](https://#)
+![📺 Demo Video Link](https://drive.google.com/file/d/1hmZIpGrQ0qS-4362cLxgxn9dah_4eCyr/view?usp=sharing)
 
 ## Overview
 
