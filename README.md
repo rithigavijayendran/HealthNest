@@ -220,11 +220,14 @@ predictTrend() {
 - Git
 
 ### Setup Instructions
-```bash
-# Clone Repository
-git clone https://github.com/rithigavijayendran/HealthNest.git
+# 1.Clone Repository
 
-# Backend Setup
+```bash
+git clone https://github.com/rithigavijayendran/HealthNest.git
+```
+# 2.Backend Setup
+
+```bash
 cd health-tracker-backend
 npm install
 touch .env
@@ -236,9 +239,10 @@ PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 ```
-```bash
 # Frontend Setup
-cd ../frontend
+
+```bash
+cd health-tracker-frontend
 npm install
 npm run dev
 ```
