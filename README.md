@@ -1,4 +1,4 @@
- 🌱 HealthNest: Health Habit Tracker with Wellness  Prediction
+ ## 🌱HealthNest: Health Habit Tracker with Wellness  Prediction
 
 Welcome to **HealthNest** — a smart, full-stack wellness companion that helps you cultivate healthier habits, track your daily routines, and unlock insights into your personal health journey through intelligent wellness forecasting.
 
