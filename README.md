@@ -1,161 +1,141 @@
-```md
-# 🌱 HealthNest — AI-Powered Habit Tracker for Wellness
+# 🌱 HealthNest: AI-Powered Habit Tracker for Wellness
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MERN-FullStack-blue?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/AI%20Powered-Wellness%20Scoring-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Responsive-UI-success?style=for-the-badge" />
-</p>
+Welcome to **HealthNest** — a smart, full-stack wellness companion that helps you cultivate healthier habits, track your daily routines, and unlock insights into your personal health journey through intelligent wellness forecasting.
+
+[🎥 Watch Demo](https://media-hosting.imagekit.io/05399ecc630b46f7/habitnest-demovideo.mp4?Expires=1839931728&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=xgiTK9lSyRoTJbKE1wDzymaXWbdV~Y8ZYnVKylmmy35SNoo23i5p2NLNcmTRoqRnywmz7Xinnwwye1wlQk0oYDiadBY0SalPiVq5tVGXz3zy02Rk9-ZKS-SfirejkwGZJAvPzfLoP~kaXCBI18TUWibxpe7684exv3kKk7solEkTC6J8PONVscuACvXJc6AbTPUt3YRd~TxnLL2jlfcxc6e3T32EdghjNnCFfizI6wS0o8gZt3hJ1H-M60Z56Pml7n7W91OuNwQ2ALFBbTlTqMSu9g1RLUpxhlBKMqX5CnbfrRVwvg-ShpDCrya6qlnkNpZ33xKwnaNxUXu7s7Y84g__)
 
 ---
 
-### 🎥 Demo Video
-
-<p align="center">
-  <video width="700" controls>
-    <source src="https://media-hosting.imagekit.io/05399ecc630b46f7/habitnest-demovideo.mp4?Expires=1839931728&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=xgiTK9lSyRoTJbKE1wDzymaXWbdV~Y8ZYnVKylmmy35SNoo23i5p2NLNcmTRoqRnywmz7Xinnwwye1wlQk0oYDiadBY0SalPiVq5tVGXz3zy02Rk9-ZKS-SfirejkwGZJAvPzfLoP~kaXCBI18TUWibxpe7684exv3kKk7solEkTC6J8PONVscuACvXJc6AbTPUt3YRd~TxnLL2jlfcxc6e3T32EdghjNnCFfizI6wS0o8gZt3hJ1H-M60Z56Pml7n7W91OuNwQ2ALFBbTlTqMSu9g1RLUpxhlBKMqX5CnbfrRVwvg-ShpDCrya6qlnkNpZ33xKwnaNxUXu7s7Y84g__" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+## ✨ What is HealthNest?
+**HealthNest** is a personalized wellness platform designed to make your health journey consistent, measurable, and deeply motivating. Users can log everyday habits — from hydration and meals to sleep and workouts — and get real-time AI-driven insights, streak-based motivation, and smart suggestions that feel like a virtual wellness coach.
 
 ---
 
-## ✨ Overview
-
-**HealthNest** is a full-stack wellness companion that helps users build and maintain healthy habits using AI-driven insights. With a beautiful and intuitive interface, HealthNest empowers users to track daily routines, monitor wellness metrics, and receive personalized suggestions — like having your own virtual wellness coach.
-
----
-
-## 🌟 Features
-
-- ✅ Log daily habits: **Sleep**, **Water**, **Nutrition**, **Exercise**
-- 📈 View progress visually through **charts and dashboards**
-- 🤖 AI-powered **Health Score** with real-time feedback
-- 💡 Personalized wellness tips and **habit suggestions**
-- 🔐 Secure **User Authentication & Profile Management**
-- 🔁 **Streak Tracking & Motivation Points**
+## 🌟 Key Features
+- 📈 **Track Daily Habits:** Sleep, water intake, meals, exercise
+- 🎯 **Goal Progression & Visual Feedback** via intuitive dashboards
+- 🤖 **AI-Driven Wellness Score** based on consistency and health science
+- 💡 **Personalized Suggestions** to help you build sustainable habits
+- 🔐 **User Authentication & Secure Profiles**
+- 🔁 **Consistency & Streak Points** to reward commitment
 
 ---
 
-## 📊 App Structure
+## 🔍 How It Works
+1. **Log your daily activities** (sleep, hydration, food, workout)
+2. **Visualize patterns** in charts and graphs
+3. **Receive an AI-generated health score** based on consistency, quality, and goal adherence
+4. **Get actionable advice** to level up your well-being
 
-| Page          | Functionality                              | Tech Used                |
-|---------------|---------------------------------------------|--------------------------|
-| Login/Register| Secure authentication and onboarding        | React, Chakra UI, JWT    |
-| Dashboard     | Visual insights and wellness overview       | Chart.js, Recharts       |
-| Profile       | User data, goals, edit settings             | Redux Toolkit            |
-| Habit Tracker | Daily log for key health parameters         | Chakra UI, REST API      |
+---
+
+## 📊 Core Pages & Functionalities
+| Page | Functionality | Tools Used |
+|------|---------------|-------------|
+| Login/Register | Secure onboarding | React, Chakra UI, JWT |
+| Dashboard | Visual wellness overview + trends | Chart.js, Recharts |
+| Profile | View/edit goals and personal data | Redux Toolkit |
+| Habit Logging | Daily logs for core wellness areas | React, Chakra UI |
 
 ---
 
 ## 🛠️ Tech Stack
+### Frontend
+- ⚛️ React + Vite
+- 🌈 Chakra UI
+- 📦 Redux Toolkit
 
-### 🔷 Frontend
-- **React** with **Vite**
-- **Chakra UI** for accessible and responsive design
-- **Redux Toolkit** for state management
+### Backend
+- 🧠 Node.js + Express
+- 🌍 MongoDB + Mongoose
+- 🔐 JWT Authentication
 
-### 🔶 Backend
-- **Node.js + Express**
-- **MongoDB + Mongoose**
-- **JWT Authentication**
-
-### 🧠 AI Engine
-- Health Score Calculation using:
-  - Custom logic + Moving Averages
-  - Linear Regression for trends
-- Dynamic Recommendation Engine
+### AI/Wellness Engine
+- 📊 Custom scoring logic
+- 🔁 Linear regression + moving averages for prediction
+- 🧩 Smart recommendation generation
 
 ---
 
-## 🧠 AI Health Score Logic
+## 🧠 AI Logic Deep Dive
+### Health Score Components
+| Area | Metric |
+|------|--------|
+| Sleep | Duration vs. goal |
+| Hydration | Water intake vs. ideal target |
+| Nutrition | Meal consistency + quality |
+| Exercise | Effort-based score |
+| Consistency | Bonus for daily habit streaks |
 
-| Area        | Metric Compared                     | Weightage |
-|-------------|--------------------------------------|-----------|
-| Sleep       | Duration vs user goal                | 30%       |
-| Hydration   | Water intake vs recommended intake   | 20%       |
-| Nutrition   | Meal consistency + food quality      | 25%       |
-| Exercise    | Duration and intensity of activity   | 25%       |
-| Consistency | Bonus for daily streaks              | +50 pts   |
+**Weightage**:
+- Sleep: 30%
+- Water: 20%
+- Nutrition: 25%
+- Exercise: 25%
+- Consistency Bonus: Up to +50 points
 
-✅ Personalized tips are triggered when scores drop or inconsistencies are detected — covering **hydration reminders**, **sleep hygiene**, **balanced meal tips**, and more.
+### Personalized Suggestions Engine
+- 🧩 Adjusts based on behavior gaps
+- 📉 Recommends habits when scores dip
+- 💬 Tips for sleep hygiene, hydration, balanced meals, and focused workouts
 
 ---
 
 ## 🚀 Getting Started
+### Prerequisites
+- Node.js ≥ v18
+- MongoDB (Local/Atlas)
+- Git
 
-### 🔧 Prerequisites
-- Node.js (v18+)
-- MongoDB (Local or Atlas Cloud)
-
-### 📦 Backend Setup
-
+### Setup Instructions
 ```bash
-# Clone the repository
+# Clone Repository
 git clone https://github.com/rithigavijayendran/HealthNest.git
+
+# Backend Setup
 cd health-tracker-backend
-
-# Install dependencies
 npm install
-
-# Create environment file
 touch .env
+node server.js
 ```
-
-`.env` file:
+Inside `.env`, add:
 ```
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 ```
-
 ```bash
-# Start backend server
-npm run dev
-```
-
----
-
-### 🎨 Frontend Setup
-
-```bash
+# Frontend Setup
 cd ../frontend
 npm install
 npm run dev
 ```
-
-App will be running at: [http://localhost:5173](http://localhost:5173)
-
----
-
-## 🔮 Future Roadmap
-
-- 🔌 Integration with wearables (Fitbit, Apple Health, Google Fit)
-- 📈 Time-series wellness forecasting
-- 🧘 Guided meditations and wellness content
-- 🎯 Weekly challenges and community rewards
+Visit [http://localhost:5173](http://localhost:5173) 🚀
 
 ---
 
-## 🧑‍💻 Author
-
-**Rithiga V**  
-Pre-Final Year B.E CSE @ Sri Eshwar College of Engineering  
-💻 Full Stack Developer | AI + Wellness Tech Enthusiast
-
-📧 [rithiga.v2022cse@sece.ac.in](mailto:rithiga.v2022cse@sece.ac.in)  
-🔗 [LinkedIn](https://www.linkedin.com/in/rithiga-v) | [GitHub](https://github.com/rithigavijayendran)
+## 🔮 Future Enhancements
+- Integration with wearable devices (Fitbit, Apple Health)
+- Anomaly detection for sleep, stress, etc.
+- Weekly wellness challenges & rewards
+- Time-series forecasting using ML
 
 ---
 
-## 🙏 Acknowledgements
+## 🙌 Built With Love By
+**Rithiga V** — Pre-Final Year B.E CSE Student @ Sri Eshwar College of Engineering  
+🚀 Passionate Full Stack Developer | Wellness Tech Enthusiast
 
-- **Adya.ai** — Mentorship & AI Logic Inspiration
-- Chakra UI + Redux Toolkit — for seamless UI and state management
-- MongoDB Atlas — scalable cloud database
+📧 Email: rithiga.v2022cse@sece.ac.in
 
 ---
 
-> *"Let's redefine self-care — one habit at a time."* 🌿
+## 💡 Inspiration & Acknowledgements
+- Inspired by real wellness journeys and behavior science research
+- Thanks to **Adya.ai** for technical guidance
+- Chakra UI & Redux Toolkit for powering elegant UIs
+- MongoDB Atlas for scalable cloud storage
 
-```
+---
+
+Let's redefine self-care — one habit at a time. 🌿
