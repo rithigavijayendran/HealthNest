@@ -166,7 +166,7 @@ Score = (Duration × Intensity Factor) / Goal × 100
 
 ---
 
-## 🧠 Smart Recommendation Engine
+## 5.🧠 Smart Recommendation Engine
 
 ```javascript
 // Priority algorithm
@@ -190,7 +190,7 @@ sortRecommendations() {
 
 ---
 
-## 🔮 Wellness Forecasting System
+## 6.🔮 Wellness Forecasting System
 
 ```javascript
 predictTrend() {
